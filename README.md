@@ -4,7 +4,7 @@ WiDefend - Application to Analysis Work Principles of Some RATs, Detection and H
 
 This application will help you to Analyst Trojan Remote Access Tool running in your computer (Windows Operation System), coded using java.
 
-Version Realease (soon)
+Version Release (2018)
 - WiDefend : Application only for find, analyst and handling RAT if your computer was infected
 - WiDefend with RATBuilder : WiDefend include several of RATBuilder (freeware), so you can know work principles of RAT and to protect your device from Trojan
 
