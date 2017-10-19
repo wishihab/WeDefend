@@ -6,7 +6,7 @@ This application will help you to Analyst Trojan Remote Access Tool running in y
 
 Version Realease (soon)
 - WiDefend : Application only for find, analyst and handling RAT if your computer was infected
-- WiDefend with RATBuilder : WiDefend include sereval of RATBuilder freeware, so you can know work principles of RAT and to Defend
+- WiDefend with RATBuilder : WiDefend include several of RATBuilder (freeware), so you can know work principles of RAT and to protect your device from Trojan
 
 Feature
 - Process Scanning
@@ -20,6 +20,12 @@ Feature
 - (????secret????)
 - (????secret????)
 - etc
+
+
+Next Goal
+- Good UserInterface
+- Linux and Android Application Supported
+- MacOs Supported
 
 
 Maybe this application will realease about June 2018, but next I will give more introduction.
