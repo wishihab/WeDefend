@@ -10,13 +10,13 @@ Version Release
 
 v1.0 Feature
 - Information System
-- Network Status Scanning (to detect connection between vitim and attacker)
+- Network Status Scanning (to detect connection between victim and attacker)
 - Port Scanner manual
 - Process Status
 
 v1.1 Feature
 - Information System
-- Network Status Scanning (to detect connection between vitim and attacker)
+- Network Status Scanning (to detect connection between victim and attacker)
 - Port Scanner manual
 - Find IP Geolocation using json http://ip-api.com/
 - Process Status
@@ -24,11 +24,11 @@ v1.1 Feature
 - Harddisk Hide (using change driver letter and path - disk management)
 - Scan File RAT server (detected for unknowrat, njratv0.7, ratty all server berfore crypted)
 - File Encrypter - Decrypter AES (included extenstion change but can't opened, it's like filelock and decrypt to original for unlock) jpg,png,doc,txt,pdf,mp3,mp4,encrypted,widefend
-- File Binding without executed (using commandprompt but automaticly in this app)
+- File Binding without executed (using commandprompt but automatically in this app)
 - Text Encrypter using AES
 - Firewall on-off (Manually)
 
-
+Tested in Windows 10 64x
 
 Next Goal
 - Video tutorial
@@ -37,6 +37,8 @@ Next Goal
 - MacOs Supported
 - More RAT Builder detected
 
-# Open Source Code but please don't forget to put original comment
+If you found a software like this you can contact me : alwishihab05@gmail.com
 
+
+Open Source Code but please don't forget to put original comment
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
