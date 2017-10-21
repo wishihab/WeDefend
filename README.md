@@ -3,12 +3,12 @@
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-1.JPG)
 
 
-WiDefend - Application to Analysis Work Principles of Some RATs, Detection and Handling that Trojan on Windows
+WiDefend - Application to Analyze Work Principles of Some RATs, Detection and Handling that Trojan on Windows
 
 This application will help you to Analyst Trojan Remote Access Tool running in your computer (Windows Operation System ), coded using java.
 
 
-Note : This application is not antivirus, this app can't remove and detect automatically RATrojan, this app helpful to analys from amature or normal skill attacker.
+Note : This application is not antivirus, this app can't remove and detect automatically RATrojan, this app helpful to analyze from amature or normal skill attacker.
 
 Version Release
 - WiDefend : Application only for find, analyst and handling RAT if your computer was infected
