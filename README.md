@@ -46,7 +46,8 @@ Next Goal
 If you found a software like this you can contact me : alwishihab05@gmail.com
 
 
-Open Source Code but please don't forget to put original comment my githublink
+This Code from Open Source Code but please don't forget to put original comment my githublink.
+The Icon original file is Health-care-data-security-icon.png
 
 
 
