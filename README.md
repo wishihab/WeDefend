@@ -37,7 +37,7 @@ v1.1 Feature
 Tested in Windows 10 64x
 
 Next Goal
-- Video tutorial
+- Video tutorial https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
 - Good UserInterface
 - Linux and Android Application Supported
 - MacOs Supported
