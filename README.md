@@ -1,8 +1,8 @@
 # WiDefend (We Defend or Alwi Defender)
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-1.JPG)
-![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-2.JPG)
-![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-3.JPG)
+
+
 
 WiDefend - Application to Analysis Work Principles of Some RATs, Detection and Handling that Trojan on Windows
 
@@ -27,7 +27,7 @@ v1.1 Feature
 - Folder Locker - Unlocker (using cacls everyone)
 - Harddisk Hide (using change driver letter and path - disk management)
 - Scan File RAT server (detected for unknowrat, njratv0.7, ratty all server berfore crypted)
-- File Encrypter - Decrypter AES (included extenstion change but can't opened, it's like filelock and decrypt to original for unlock) jpg,png,doc,txt,pdf,mp3,mp4,encrypted,widefend
+- File Encrypter - Decrypter AES (included extenstion change but can't open, it's like filelock and decrypt to original for unlock) jpg,png,doc,txt,pdf,mp3,mp4,encrypted,widefend
 - File Binding without executed (using commandprompt but automatically in this app)
 - Text Encrypter using AES
 - Firewall on-off (Manually)
@@ -46,3 +46,7 @@ If you found a software like this you can contact me : alwishihab05@gmail.com
 
 Open Source Code but please don't forget to put original comment
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
+
+
+![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-2.JPG)
+![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-3.JPG)
