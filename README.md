@@ -44,9 +44,11 @@ Next Goal
 If you found a software like this you can contact me : alwishihab05@gmail.com
 
 
-Open Source Code but please don't forget to put original comment
-#ForEducationPurposeOnly or ResearchITSecurityandMalware
+Open Source Code but please don't forget to put original comment my githublink
+
 
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-2.JPG)
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-3.JPG)
+
+#ForEducationPurposeOnly or ResearchITSecurityandMalware
