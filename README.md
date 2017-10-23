@@ -1,4 +1,4 @@
-# WiDefend (We Defend or Alwi Defender)
+# WiDefend (We Defend)
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-1.JPG)
 
