@@ -4,16 +4,16 @@
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend_Androidv_1.0.PNG)
 
 
-WiDefend - Application to Analyze Work Principles of Some RATs, Detection and Handling that Trojan on Windows
-
 This application will help you to Analyst Trojan Remote Access Tool running in your computer (Windows Operation System ), coded using java.
-
-
 Note : This application is not antivirus, this app can't remove and detect automatically RATrojan, this app helpful to analyze from amature or normal skill attacker.
+
+-================================================================================================================================-
 
 Version Release
 - WiDefend : Application only for find, analyst and handling RAT if your computer was infected
 - WiDefend with RATBuilder : WiDefend include several of RATBuilder (freeware unknowrat, njrat, ratty), so you can know work principles of RAT and to protect your device from Trojan
+
+-================================================================================================================================-
 
 v1.0 Feature
 - Information System
@@ -36,8 +36,12 @@ v1.1 Feature
 - Firewall on-off (Manually)
 - Video Tutorial in Tips and Trick
 
+-================================================================================================================================-
+
 Windows Version Tested on Windows 8,10 64bit
 Android Version on Progress
+
+-================================================================================================================================-
 
 Next Goal
 - Good UserInterface
@@ -45,13 +49,13 @@ Next Goal
 - MacOs Supported
 - More RAT Builder detected
 
-If you found a software like this you can contact me : alwishihab05@gmail.com
+-================================================================================================================================-
 
+
+If you found a software like this you can contact me : alwishihab05@gmail.com
 
 This Code from Open Source Code but please don't forget to put original comment my githublink.
 The Icon original file is Health-care-data-security-icon.png
-
-
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-2.JPG)
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-3.JPG)
