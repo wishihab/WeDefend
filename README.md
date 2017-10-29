@@ -1,6 +1,7 @@
 # WiDefend (We Defend)
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-1.JPG)
+![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend_Androidv_1.0.PNG)
 
 
 WiDefend - Application to Analyze Work Principles of Some RATs, Detection and Handling that Trojan on Windows
@@ -33,13 +34,14 @@ v1.1 Feature
 - File Binding without executed (using commandprompt but automatically in this app)
 - Text Encrypter using AES
 - Firewall on-off (Manually)
+- Video Tutorial in Tips and Trick
 
-Tested in Windows 10 64x
+Windows Version Tested on Windows 8,10 64bit
+Android Version on Progress
 
 Next Goal
-- Video tutorial https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
 - Good UserInterface
-- Linux and Android Application Supported
+- Linux Supported
 - MacOs Supported
 - More RAT Builder detected
 
