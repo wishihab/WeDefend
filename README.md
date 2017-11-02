@@ -4,12 +4,14 @@
 This application will help you to Analyst Trojan Remote Access Tool running in your device.
 Note : This application is not antivirus, this app can't remove and detect automatically RATrojan, this app helpful to analyze from amature or normal skill attacker.
 
--=============================================================================================-
+-===============================================================================-
 
 - Download App For Windows : https://github.com/wishihab/WiDefend/releases/tag/v.1.1.1
-- Download Apk For Android : Cooming Soon
+- Tutorial For Windows App : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
+- Download Apk For Android : Coming Soon
+- Tutorial For Android Apk : Coming Soon
 
--================================================================================================================================-
+-===============================================================================-
 
 Next Goal
 - Good UserInterface
@@ -17,8 +19,7 @@ Next Goal
 - MacOs Supported
 - More RAT Builder detected
 
--================================================================================================================================-
-
+-===============================================================================-
 
 If you found a software like this you can contact me : alwishihab05@gmail.com
 
