@@ -1,7 +1,7 @@
 # WiDefend (We Defend)
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend-1.JPG)
-![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/WiDefend_Androidv_1.0.PNG)
+
 
 
 This application will help you to Analyst Trojan Remote Access Tool running in your computer (Windows Operation System ), coded using java.
