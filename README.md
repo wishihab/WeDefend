@@ -5,8 +5,8 @@ This application will help you to Analyst Trojan Remote Access Tool running in y
 Note : This application is not antivirus, this app can't remove and detect automatically RATrojan, this app helpful to analyze from amature or normal skill attacker.
 
 -===============================================================================-
-- Windows Version Detail : https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend
-- Download App For Windows : https://github.com/wishihab/WiDefend/releases/tag/v.1.1.1
+- Windows Version Detail : https://github.com/wishihab/WiDefend/tree/master/widefend_v1.2
+- Download App For Windows : https://github.com/wishihab/WiDefend/releases/tag/v.1.1.1 && Rebuild v 1.2 for new update
 - Tutorial For Windows App : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
 
 - Android Version Detail : Coming Soon
