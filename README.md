@@ -6,7 +6,7 @@ Note : This application is not antivirus, this app can't remove and detect autom
 
 -===============================================================================-
 - Windows Version Detail : https://github.com/wishihab/WiDefend/tree/master/widefend_v1.2
-- Download App For Windows : https://github.com/wishihab/WiDefend/releases/tag/v.1.1.1 && Rebuild v 1.2 for new update
+- Download App For Windows : https://github.com/wishihab/WiDefend/releases
 - Tutorial For Windows App : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
 
 - Android Version Detail : https://github.com/wishihab/WiDefend-Android
