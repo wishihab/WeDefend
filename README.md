@@ -1,7 +1,7 @@
 # WiDefend (We Defend)
 
 
-This application will help you to Analyst Trojan Remote Access Tool running in your device.
+This application will help you to Analyst (monitoring) Trojan Remote Access Tool running in your device.
 Note : This application is not antivirus, this app can't remove and detect automatically RATrojan, this app helpful to analyze from amature or normal skill attacker.
 
 -===============================================================================-
