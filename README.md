@@ -2,8 +2,10 @@
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/widefend_v1.2/Capture.JPG)
 
-This application will help you to Analyst (monitoring) Trojan Remote Access Tool running in your device.
-Note : This application is not antivirus, this app can't remove and detect automatically RATrojan, this app helpful to analyze from amature or normal skill attacker.
+This Application will help you to analyze (Monitor) The Trojan Remote Access Tool that is running in your device.
+Note: This application is not an antivirus, this app can't remove and detect RAT Trojan automatically, this app will analyze RAT Trojan from amateur to normal skill attackers.
+
+
 
 -===============================================================================-
 - Windows Version Detail : https://github.com/wishihab/WiDefend/tree/master/widefend_v1.2
@@ -26,7 +28,7 @@ Next Goal
 
 If you found a software like this you can contact me : wishihab@gmail.com
 
-This Code from Open Source Code but please don't forget to put original comment my githublink.
+This code is from OpenSource Code but please don't forget to put my github link if you want to use the code. Thankyou
 The Icon original file is Health-care-data-security-icon.png
 
 
