@@ -1,5 +1,11 @@
 # WiDefend (We Defend)
 
+v.2 (new Interface)
+
+![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)
+
+
+v.1
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/widefend_v1.2/Capture.JPG)
 
 This Application will help you to analyze (Monitor) The Trojan Remote Access Tool that is running in your device.
