@@ -1,12 +1,8 @@
 # WiDefend (We Defend)
 
-v.2 (new Interface)
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)
 
-
-v.1
-![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/widefend_v1.2/Capture.JPG)
 
 This Application will help you to analyze (Monitor) The Trojan Remote Access Tool that is running in your device.
 Note: This application is not an antivirus, this app can't remove and detect RAT Trojan automatically, this app will analyze RAT Trojan from amateur to normal skill attackers.
@@ -14,21 +10,21 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 
 
 -===============================================================================-
-- Windows Version Detail : https://github.com/wishihab/WiDefend/tree/master/widefend_v1.2
-- Download App For Windows : https://github.com/wishihab/WiDefend/releases
-- Tutorial For Windows App : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
+- [x] Windows Version Detail : https://github.com/wishihab/WiDefend/tree/master/widefend_v1.2
+- [x] Download App For Windows : https://github.com/wishihab/WiDefend/releases
+- [x] Tutorial For Windows App : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
 
-- Android Version Detail : https://github.com/wishihab/WiDefend-Android
-- Download Apk For Android : Coming Soon
-- Tutorial For Android Apk : Coming Soon
+- [x] Android Version Detail : https://github.com/wishihab/WiDefend-Android
+- [ ] Download Apk For Android : Coming Soon
+- [ ] Tutorial For Android Apk : Coming Soon
 
 -===============================================================================-
 
 Next Goal
-- Good UserInterface
-- Linux Supported
-- MacOs Supported
-- More RAT Builder detected
+- [ ] Good UserInterface
+- [ ] Linux Supported
+- [ ] MacOs Supported
+- [ ] More RAT Builder detected
 
 -===============================================================================-
 
@@ -39,3 +35,5 @@ The Icon original file is Health-care-data-security-icon.png
 
 
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
+
+> *Keywords: Windows Java, Trojan Malware, Remote Access Tool.*
