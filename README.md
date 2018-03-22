@@ -9,7 +9,7 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 
 
 # Windows Application using Java
-# Feature
+#Feature
 
 - [x] Download App For Windows : https://github.com/wishihab/WiDefend/releases
 	- [x] Get Background Process List and System Appear App List
@@ -36,7 +36,7 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 
 
 # Android Application
-# Feature
+#Feature
 
 - [x] Android Version Detail : https://github.com/wishihab/WiDefend-Android
 - [ ] Download Apk For Android : Coming Soon
