@@ -16,14 +16,14 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 	- [x] Get Network Status
 	- [x] Geolocation IP using http://ip-api.com/
 	- [x] Manual Scan Offline
-		- [x] Unknown RAT v 1.2.0
-		- [x] Ratty
-		- [x] njRAT
+		- [x] Unknown RAT v 1.2.0 (unencrypted)
+		- [x] Ratty (unencrypted)
+		- [x] njRAT (unencrypted)
 		- [ ] Other RAT
 	- [x] Manual Scan Online Button
-		- [x] VirusTotal
-		- [x] Kaspersky
-		- [x] NoDistributed
+		- [x] VirusTotal (unencrypted and encrypted)
+		- [x] Kaspersky (unencrypted and encrypted)
+		- [x] NoDistributed (unencrypted and encrypted)
 		- [ ] Other Online Scanner
 	- [x] Checking Firewall On/Off
 	- [x] Disk Hider Management Manual
