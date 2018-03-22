@@ -2,7 +2,7 @@ ReadMe Indonesian Version
 
 Aplikasi yang akan membantu menganalisa trojan horse tipe remote access tool, aplikasi ini bukan antivirus, aplikasi ini tidak bisa mendeteksi dan menghapus trojan horse secara otomatis tetapi aplikasi ini membantu untuk memonitoring kompiter pada bagian proses dan koneksi.
 
-#Aplikasi untuk Sistem Operasi Windows
+# Aplikasi untuk Sistem Operasi Windows
 #Fitur
 
 - [x] Unduh Aplikasi untuk Windows : https://github.com/wishihab/WiDefend/releases
@@ -29,7 +29,7 @@ Aplikasi yang akan membantu menganalisa trojan horse tipe remote access tool, ap
 - [x] Tata Cara Penggunaan untuk Aplikasi Windows : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
 
 
-#Aplikasi Android
+# Aplikasi Android
 
 - [x] Detail Versi Android : https://github.com/wishihab/WiDefend-Android
 - [ ] Unduh Aplikasi untuk Android : Segera
@@ -37,7 +37,7 @@ Aplikasi yang akan membantu menganalisa trojan horse tipe remote access tool, ap
 
 
 
-#Tujuan Selanjutnya
+# Tujuan Selanjutnya
 - [ ] Antarmuka Pengguna yang Baik
 - [ ] Mendukung Sistem Operasi Linux
 - [ ] Mendukung Sistem Operasi MacOS
