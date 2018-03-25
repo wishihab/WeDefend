@@ -4,7 +4,7 @@
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)
 
 
-This Application will help you to analyze (Monitor) The Trojan Remote Access Tool that is running in your device.
+This Application will help you to monitor your device.
 Note: This application is not an antivirus, this app can't remove and detect RAT Trojan automatically, this app will analyze RAT Trojan from amateur to normal skill attackers.
 
 
