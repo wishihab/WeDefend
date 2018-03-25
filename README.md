@@ -1,4 +1,7 @@
 # WiDefend (We Defend)
+# Download
+[![Download]][mydownload_url]
+[mydownload_url]: https://github.com/wishihab/WiDefend/releases
 
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)
