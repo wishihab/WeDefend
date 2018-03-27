@@ -1,6 +1,6 @@
 ReadMe Indonesian Version
 
-Aplikasi yang akan membantu menganalisa trojan horse tipe remote access tool, aplikasi ini bukan antivirus, aplikasi ini tidak bisa mendeteksi dan menghapus trojan horse secara otomatis tetapi aplikasi ini membantu untuk memonitoring kompiter pada bagian proses dan koneksi.
+Aplikasi yang akan membantu memantau perangkat, aplikasi ini bukan antivirus, aplikasi ini tidak bisa mendeteksi dan menghapus trojan horse secara otomatis tetapi aplikasi ini membantu untuk memantau kompiter pada bagian proses dan koneksi serta di lengkapi berbagai fitur pertahanan.
 
 # Aplikasi untuk Sistem Operasi Windows
 #Fitur
