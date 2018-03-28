@@ -31,7 +31,7 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 	- [x] File Binder (two files)
 	- [x] Administrative Tools Windows Button
 	
-- [x] Tutorial For Windows App : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
+- [ ] Tutorial For Windows App : Soon
 
 
 # Android Application
