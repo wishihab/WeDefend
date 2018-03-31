@@ -6,7 +6,7 @@
 This Application will help you to monitor your device.
 Note: This application is not an antivirus, this app can't remove and detect RAT Trojan automatically, this app will analyze RAT Trojan from amateur to normal skill attackers.
 
-- [x] Previeous read me here : https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend
+- [x] Previous read me here : https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend
 
 # Windows Application using Java
 #Feature
