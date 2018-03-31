@@ -16,12 +16,12 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 	- [x] Get Background Process List and System Appear App List
 	- [x] Get Network Status
 	- [x] Geolocation IP using http://ip-api.com/
-	- [x] Manual Scan Offline
+	- [x] Manual Scan Offline can be detected
 		- [x] Unknown RAT v 1.2.0 (unencrypted)
 		- [x] Ratty (unencrypted)
 		- [x] njRAT (unencrypted)
 		- [ ] Other RAT
-	- [x] Manual Scan Online Button
+	- [x] Manual Scan Online Button can be detected
 		- [x] VirusTotal (unencrypted and encrypted)
 		- [x] Kaspersky (unencrypted and encrypted)
 		- [x] NoDistributed (unencrypted and encrypted)
