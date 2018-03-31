@@ -11,6 +11,8 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 #Feature
 
 - [x] Download App For Windows : https://github.com/wishihab/WiDefend/releases
+- [x] Download Examples RAT Builder : https://github.com/wishihab/WiDefend/releases/tag/v.1.2
+
 	- [x] Get Background Process List and System Appear App List
 	- [x] Get Network Status
 	- [x] Geolocation IP using http://ip-api.com/
