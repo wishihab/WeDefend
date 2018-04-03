@@ -21,12 +21,10 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 		- [x] Unknown RAT v 1.2.0 (unencrypted)
 		- [x] Ratty (unencrypted)
 		- [x] njRAT (unencrypted)
-		- [ ] Other RAT
 	- [x] Manual Scan Online Button can be detected
 		- [x] VirusTotal (unencrypted and encrypted)
 		- [x] Kaspersky (unencrypted and encrypted)
 		- [x] NoDistributed (unencrypted and encrypted)
-		- [ ] Other Online Scanner
 	- [x] Checking Firewall On/Off
 	- [x] Disk Hider Management Manual
 	- [x] Folder Lock and Unlock
@@ -44,6 +42,9 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 - [ ] Tutorial For Android Apk : Coming Soon
 
 
+# Proccess
+- [ ] Project Complete
+- [x] Project Pending till Android Version Finish
 
 # Next Goal
 - [ ] Good UserInterface
