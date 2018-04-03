@@ -14,23 +14,34 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 - [x] Download App For Windows : https://github.com/wishihab/WiDefend/releases
 - [x] Download Examples RAT Builder : https://github.com/wishihab/WiDefend/releases/tag/v.1.2
 
-	- [x] Get Background Process List and System Appear App List
-	- [x] Get Network Status
-	- [x] Geolocation IP using http://ip-api.com/
-	- [x] Manual Scan Offline can be detected
-		- [x] Unknown RAT v 1.2.0 (unencrypted)
-		- [x] Ratty (unencrypted)
-		- [x] njRAT (unencrypted)
-	- [x] Manual Scan Online Button can be detected
-		- [x] VirusTotal (unencrypted and encrypted)
-		- [x] Kaspersky (unencrypted and encrypted)
-		- [x] NoDistributed (unencrypted and encrypted)
-	- [x] Checking Firewall On/Off
-	- [x] Disk Hider Management Manual
-	- [x] Folder Lock and Unlock
-	- [x] File Encryption AES with Custom Extenstion
-	- [x] File Binder (two files)
-	- [x] Administrative Tools Windows Button
+	- [x] PROCESS
+		- [x] Get Background Process List
+		- [x] Get Proccess System Appear App List (Run as Administrator)
+		
+	- [x] NETWORK
+		- [x] Get Network Status
+		- [x] Get Network Status by System App (Run as Administrator)
+		- [x] Geolocation IP using http://ip-api.com/json/
+		
+	- [x] SCAN
+		- [x] Scan file offline
+			- [x] Unknown RAT v 1.2.0 (unencrypted)
+			- [x] Ratty (unencrypted)
+			- [x] njRAT (unencrypted)
+		- [x] Scan file online
+			- [x] VirusTotal (unencrypted and encrypted)
+			- [x] Kaspersky (unencrypted and encrypted)
+			- [x] NoDistributed (unencrypted and encrypted)
+		- [x] Checking Firewall On/Off
+		
+	- [x] DEFENCE
+		- [x] Disk Hider Management Manual
+		- [x] Folder Lock and Unlock
+		- [x] File Encryption AES with Custom Extenstion
+		- [x] File Binder (two files)
+	
+	- [x] TOOL
+		- [x] Administrative Tools Windows Button
 	
 - [ ] Tutorial For Windows App : Soon
 
