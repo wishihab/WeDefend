@@ -49,9 +49,6 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 # Android Application
 
 - [x] Android Version Detail : https://github.com/wishihab/WiDefend-Android
-- [ ] Download Apk For Android : Coming Soon
-- [ ] Tutorial For Android Apk : Coming Soon
-
 
 # Proccess
 - [ ] Project Complete
