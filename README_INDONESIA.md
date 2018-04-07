@@ -13,12 +13,10 @@ Aplikasi yang akan membantu memantau perangkat, aplikasi ini bukan antivirus, ap
 		- [x] Unknown RAT v 1.2.0 (tidak terenkripsi)
 		- [x] Ratty (tidak terenkripsi)
 		- [x] njRAT (tidak terenkripsi)
-		- [ ] Other RAT
 	- [x] Tombol Pemindaian Online
 		- [x] VirusTotal
 		- [x] Kaspersky
 		- [x] NoDistributed
-		- [ ] Pemindai Online Lainnya
 	- [x] Memeriksa Firewall Aktif / Tidak Aktif
 	- [x] Pengelolah Penyembunyi Disk Manual
 	- [x] Pengunci dan Pembuka Kunci Folder
@@ -26,15 +24,12 @@ Aplikasi yang akan membantu memantau perangkat, aplikasi ini bukan antivirus, ap
 	- [x] Pengikat Dua File menjadi Satu File
 	- [x] Tombol Alat Administratif Windows
 	
-- [x] Tata Cara Penggunaan untuk Aplikasi Windows : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
+- [x] Cara Menggunakan Aplikasi : https://www.youtube.com/playlist?list=PLzII-BCKy1gRAYs2jRlSyD4Lw7lGq4DVw
 
 
 # Aplikasi Android
 
 - [x] Detail Versi Android : https://github.com/wishihab/WiDefend-Android
-- [ ] Unduh Aplikasi untuk Android : Segera
-- [ ] Tata Cara Penggunaan untuk Aplikasi Android : Segera
-
 
 
 # Tujuan Selanjutnya
