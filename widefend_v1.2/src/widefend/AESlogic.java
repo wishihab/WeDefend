@@ -9,7 +9,7 @@ import sun.misc.BASE64Encoder;
 
 /** Please don't delete this comment
  * github.com/wishihab
- * @author wishihab
+ * 
  */
 public class AESlogic {
     public static String algo = "AES";
