@@ -60,6 +60,8 @@ Note: This application is not an antivirus, this app can't remove and detect RAT
 - [ ] MacOs Supported
 - [ ] More RAT Builder detected
 
+# Licence Information
+WiDefend is licenced under MIT Licence. https://github.com/wishihab/WiDefend/blob/master/LICENSE
 
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
 
