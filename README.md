@@ -1,4 +1,4 @@
-# WiDefend (We Defend)
+# WiDefend (WeDefend)
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)
 
