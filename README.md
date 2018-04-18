@@ -1,7 +1,5 @@
 # WiDefend (WeDefend)
 
-![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)
-
 WeDefend is application based on java programming language with several features as check proccess activity, network activity, file encryption, disk hider and folder lock to against and also protect user data from remote access trojan malware in windows operating system. This application will help a user to increase their privacy awareness.
 
 *Note: This application is not an antivirus, this app can't remove and detect Remote Access Trojan automatically, this app will against Remote Access Trojan from amateur to normal skill attackers.*
@@ -43,7 +41,8 @@ WeDefend is application based on java programming language with several features
 	- [x] TOOL
 		- [x] Administrative Tools Windows Button
 	
-- [ ] Tutorial For Windows App : Soon
+- [x] Tutorial For Windows App :
+[![Video Demo](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)](https://www.youtube.com/embed/NnixHjYuS80)  
 
 
 # Android Application
