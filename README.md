@@ -2,9 +2,9 @@
 
 ![ScreenShot](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)
 
+WeDefend is application based on java programming language with several features as check network activity, permission usage, file encryption to against and also protect user data from remote access trojan malware in windows operating system. This application will help a user to increase their privacy awareness.
 
-This Application will help you to monitor your device.
-Note: This application is not an antivirus, this app can't remove and detect RAT Trojan automatically, this app will analyze RAT Trojan from amateur to normal skill attackers.
+*Note: This application is not an antivirus, this app can't remove and detect Remote Access Trojan automatically, this app will against Remote Access Trojan from amateur to normal skill attackers.*
 
 - [x] Previous read me here : https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend
 
