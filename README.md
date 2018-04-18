@@ -69,5 +69,5 @@ WiDefend is licenced under MIT Licence. https://github.com/wishihab/WiDefend/blo
 
 
 # Folder LOCK AND UNLOCK Solution
-> *to LOCK open Command Prompt and write this sytax "cacls FOLDERPATH /P everyone:n" and answer Y*
-> *to UNLOCK open Command Prompt and write this sytax "cacls FOLDERPATH /P everyone:f" and answer Y*
+- to LOCK open Command Prompt and write this "cacls FOLDERPATH /P everyone:n" and answer Y without ""
+- to UNLOCK open Command Prompt and write this "cacls FOLDERPATH /P everyone:f" and answer Y without ""
