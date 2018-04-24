@@ -1,8 +1,6 @@
 <h1 align="center">WeDefend</h1>
 
-
-
-[![Video Demo](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)](https://www.youtube.com/embed/QCPqa-WPHec)  
+[![Video Demo](https://github.com/wishihab/WiDefend/blob/master/wedefend-youtube.PNG)](https://www.youtube.com/embed/QCPqa-WPHec)  
 
 WeDefend is application based on java programming language with several features as check proccess activity, network activity, file encryption, disk hider and folder lock to against and also protect user data from remote access trojan malware in windows operating system. This application will help a user to increase their privacy awareness.
 
@@ -11,9 +9,10 @@ WeDefend is application based on java programming language with several features
 - [x] Previous read me here : https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend
 - [x] Readme Bahasa Indonesia : https://github.com/wishihab/WiDefend/blob/master/README_INDONESIA.md
 
+## Android Application
+- [x] Android Version Detail : https://github.com/wishihab/WiDefend-Android
 
-
-# Windows Application using Java
+## Windows Application using Java
 #Feature
 
 - [x] Download App For Windows : https://github.com/wishihab/WiDefend/releases
@@ -41,39 +40,32 @@ WeDefend is application based on java programming language with several features
 		
 	- [x] DEFENCE
 		- [x] Disk Hider Management Manual
-		- [x] **Folder Lock and Unlock (TEMPORARY NOT WORK, Cacls is now deprecated. Read solution below)**
+		- [x] Folder Lock and Unlock
 		- [x] File Encryption AES with Custom Extenstion
 		- [x] File Binder (two files)
 	
 	- [x] TOOL
 		- [x] Administrative Tools Windows Button
 
-# Version
+## Version
 - 2.0 : **Fix folder lock and unlock, fix button adminitrative tools** April 22, 2018
 - 2.0 : New interface March 16, 2018
 - 1.0 : First WeDefend
 
-# Android Application
-- [x] Android Version Detail : https://github.com/wishihab/WiDefend-Android
-
-# Proccess
+## Proccess
 - [ ] Project Complete
 - [x] Project Pending till Android Version Finish
 
-# Next Goal
+## Next Goal
 - [ ] Good UserInterface
 - [ ] Linux Supported
 - [ ] MacOs Supported
 - [ ] More RAT detected
 
-# Licence Information
+## Licence Information
 WiDefend is licenced under MIT Licence. https://github.com/wishihab/WiDefend/blob/master/LICENSE
 
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
 
 > *Keywords: Windows Java, Trojan Malware, Remote Access Tool.*
 
-
-# Folder LOCK AND UNLOCK Solution
-- to LOCK open Command Prompt and write this "cacls FOLDERPATH /P everyone:n" and answer Y without ""
-- to UNLOCK open Command Prompt and write this "cacls FOLDERPATH /P everyone:f" and answer Y without ""
