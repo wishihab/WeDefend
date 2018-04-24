@@ -63,7 +63,7 @@ WeDefend is application based on java programming language with several features
 - [ ] Good UserInterface
 - [ ] Linux Supported
 - [ ] MacOs Supported
-- [ ] More RAT Builder detected
+- [ ] More RAT detected
 
 # Licence Information
 WiDefend is licenced under MIT Licence. https://github.com/wishihab/WiDefend/blob/master/LICENSE
