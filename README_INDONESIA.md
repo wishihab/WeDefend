@@ -1,4 +1,7 @@
 ReadMe Indonesian Version
+[![Video Demo](https://github.com/wishihab/WiDefend/blob/master/newUI_WiDefend.PNG)](https://www.youtube.com/embed/QCPqa-WPHec)  
+
+WeDefend adalah aplikasi berbasis bahasa pemograman Java, memiliki beberapa fitur seperti melakukan pemeriksaan aktifitas proses, aktifitas jaringan, enkripsi berkas, menyembunyikan disk dan pengunci folder untuk melawan dan menjaga data pengguna dari virus Trojan pada sistem operasi Windows. Aplikasi ini membantu meningkatkan kesadaran privasi.
 
 Aplikasi yang akan membantu memantau perangkat, aplikasi ini bukan antivirus, aplikasi ini tidak bisa mendeteksi dan menghapus trojan horse secara otomatis tetapi aplikasi ini membantu untuk memantau kompiter pada bagian proses dan koneksi serta di lengkapi berbagai fitur pertahanan.
 
