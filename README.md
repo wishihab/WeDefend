@@ -4,19 +4,18 @@ WeDefend is application based on java programming language with several features
 
 *Note: This application is not an antivirus, this app can't remove and detect Remote Access Trojan automatically, this app will against Remote Access Trojan from amateur to normal skill attackers.*
 
-- [x] Previous read me here : https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend
-- [x] Readme Bahasa Indonesia : https://github.com/wishihab/WiDefend/blob/master/README_INDONESIA.md
+- [x] [WeDefend Android](https://github.com/wishihab/WeDefend-Android)
+- [x] [WeDefend for linux](https://github.com/wishihab/WeDefendPyth)
+- [x] [Previous read me here](https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend)
+- [x] [Readme Bahasa Indonesia](https://github.com/wishihab/WiDefend/blob/master/README_INDONESIA.md)
 
 [![Video Demo](https://github.com/wishihab/WiDefend/blob/master/wedefend-youtube.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
-
-## Android Application
-- [x] Android Version Detail : https://github.com/wishihab/WiDefend-Android
 
 ## Windows Application using Java
 #Feature
 
-- [x] Download App For Windows : https://github.com/wishihab/WiDefend/releases
-- [x] Download Examples RAT Builder : https://github.com/wishihab/WiDefend/releases/tag/v.1.2
+- [x] [Download App For Windows](https://github.com/wishihab/WiDefend/releases)
+- [x] [Download Examples RAT Builder](https://github.com/wishihab/WiDefend/releases/tag/v.1.2)
 
 	- [x] PROCESS
 		- [x] Get Background Process List
@@ -25,7 +24,7 @@ WeDefend is application based on java programming language with several features
 	- [x] NETWORK
 		- [x] Get Network Status
 		- [x] Get Network Status by System App (Run as Administrator)
-		- [x] Geolocation IP using http://ip-api.com/json/
+		- [x] Geolocation using [IP-API](http://ip-api.com)
 		
 	- [x] SCAN
 		- [x] Scan file offline
@@ -63,7 +62,7 @@ WeDefend is application based on java programming language with several features
 - [ ] More RAT detected
 
 ## Licence Information
-WiDefend is licenced under MIT Licence. https://github.com/wishihab/WiDefend/blob/master/LICENSE
+WiDefend is licenced under [MIT Licence](https://github.com/wishihab/WiDefend/blob/master/LICENSE)
 
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
 
