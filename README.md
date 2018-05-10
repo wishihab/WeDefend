@@ -9,10 +9,7 @@ WeDefend is application based on java programming language with several features
 - [x] [Previous read me here](https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend)
 - [x] [Readme Bahasa Indonesia](https://github.com/wishihab/WiDefend/blob/master/README_INDONESIA.md)
 
-[![Video Demo](https://github.com/wishihab/WiDefend/blob/master/wedefend-youtube.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
-
-## Windows Application using Java
-#Feature
+## Feature
 
 - [x] [Download App For Windows](https://github.com/wishihab/WiDefend/releases)
 - [x] [Download Examples RAT Builder](https://github.com/wishihab/WiDefend/releases/tag/v.1.2)
@@ -51,9 +48,14 @@ WeDefend is application based on java programming language with several features
 - 2.0 : New interface March 16, 2018
 - 1.0 : First WeDefend
 
-## Proccess
+## Process
 - [ ] Project Complete
 - [x] Project Pending till Android Version Finish
+
+## Video
+
+[![Video Demo](https://github.com/wishihab/WiDefend/blob/master/wedefend-youtube.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
+
 
 ## Next Goal
 - [ ] Good UserInterface
