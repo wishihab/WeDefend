@@ -36,7 +36,7 @@ WeDefend is application based on java programming language with several features
 		
 	- [x] DEFENCE
 		- [x] Disk Hider Management Manual
-		- [x] Folder Lock and Unlock
+		- [x] Folder Lock and Unlock (Unlocker also work without lock first)
 		- [x] File Encryption AES with Custom Extenstion
 		- [x] File Binder (two files)
 	
