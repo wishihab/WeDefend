@@ -59,8 +59,6 @@ WeDefend is application based on java programming language with several features
 
 ## Next Goal
 - [ ] Good UserInterface
-- [ ] Linux Supported
-- [ ] MacOs Supported
 - [ ] More RAT detected
 
 ## Licence Information
