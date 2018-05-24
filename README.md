@@ -6,13 +6,13 @@ WeDefend is application based on java programming language with several features
 
 - [x] [WeDefend Android](https://github.com/wishihab/WeDefend-Android)
 - [x] [WeDefend with Python](https://github.com/wishihab/WeDefendPyth)
-- [x] [Previous read me here](https://github.com/wishihab/WiDefend/tree/master/v1.0/widefend)
-- [x] [Readme Bahasa Indonesia](https://github.com/wishihab/WiDefend/blob/master/README_INDONESIA.md)
+- [x] [Previous read me here](https://github.com/wishihab/WeDefend/tree/master/v1.0/widefend)
+- [x] [Readme Bahasa Indonesia](https://github.com/wishihab/WeDefend/blob/master/README_INDONESIA.md)
 
 ## Feature
 
-- [x] [Download App For Windows](https://github.com/wishihab/WiDefend/releases)
-- [x] [Download Examples RAT Builder](https://github.com/wishihab/WiDefend/releases/tag/v.1.2)
+- [x] [Download App For Windows](https://github.com/wishihab/WeDefend/releases)
+- [x] [Download Examples RAT Builder](https://github.com/wishihab/WeDefend/releases/tag/v.1.2)
 
 	- [x] PROCESS
 		- [x] Get Background Process List
@@ -54,7 +54,7 @@ WeDefend is application based on java programming language with several features
 
 ## Video
 
-[![Video Demo](https://github.com/wishihab/WiDefend/blob/master/wedefend-youtube.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
+[![Video Demo](https://github.com/wishihab/WeDefend/blob/master/wedefend-youtube.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
 
 
 ## Next Goal
@@ -62,7 +62,7 @@ WeDefend is application based on java programming language with several features
 - [ ] More RAT detected
 
 ## Licence Information
-WiDefend is licenced under [MIT Licence](https://github.com/wishihab/WiDefend/blob/master/LICENSE)
+WiDefend is licenced under [MIT Licence](https://github.com/wishihab/WeDefend/blob/master/LICENSE)
 
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
 
