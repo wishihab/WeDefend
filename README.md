@@ -2,7 +2,7 @@
 
 WeDefend is application based on java programming language with several features as check proccess activity, network activity, file encryption, disk hider and folder lock to against and also protect user data from remote access trojan malware in windows operating system. This application will help a user to increase their privacy awareness.
 
-*Note: This application is not an antivirus, this app can't remove and detect Remote Access Trojan automatically, this app will against Remote Access Trojan from amateur to normal skill attackers.*
+*Note: This application is not an antivirus, this app can't remove and detect Remote Access Trojan automatically, this app can help to against Remote Access Trojan from amateur to normal skill attackers.*
 
 - [x] [WeDefend Android](https://github.com/wishihab/WeDefend-Android)
 - [x] [WeDefend with Python](https://github.com/wishihab/WeDefendPyth)
