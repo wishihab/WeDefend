@@ -59,7 +59,6 @@ WeDefend is application based on java programming language with several features
 
 ## Process
 - [ ] Project Complete
-- [x] Project Pending till Android Version Finish
 
 
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
