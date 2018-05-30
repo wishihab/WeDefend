@@ -1,4 +1,5 @@
 <h1 align="center">WeDefend</h1> 
+<h4 align="center">MONITOR AND PROTECT WINDOWS FROM REMOTE ACCESS TOOL TROJAN</h4>
 
 WeDefend is application based on java programming language with several features as check proccess activity, network activity, file encryption, disk hider and folder lock to against and also protect user data from remote access trojan malware in windows operating system. This application will help a user to increase their privacy awareness.
 
@@ -8,9 +9,17 @@ WeDefend is application based on java programming language with several features
 - [x] [WeDefend with Python](https://github.com/wishihab/WeDefendPyth)
 - [x] [Previous read me here](https://github.com/wishihab/WeDefend/tree/master/v1.0/widefend)
 - [x] [Readme Bahasa Indonesia](https://github.com/wishihab/WeDefend/blob/master/README_INDONESIA.md)
+- [x] WeDefend is licenced under [MIT Licence](https://github.com/wishihab/WeDefend/blob/master/LICENSE)
 
-## Feature
+## Video
+[![Video Demo](https://github.com/wishihab/WeDefend/blob/master/YoutubeVideo.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
 
+## Version
+- 2.0 : **Fix folder lock and unlock, fix button adminitrative tools** April 22, 2018
+- 2.0 : New interface March 16, 2018
+- 1.0 : First WeDefend
+
+## Features
 - [x] [Download App For Windows](https://github.com/wishihab/WeDefend/releases)
 - [x] [Download Examples RAT Builder](https://github.com/wishihab/WeDefend/releases/tag/v.1.2)
 
@@ -43,26 +52,15 @@ WeDefend is application based on java programming language with several features
 	- [x] TOOL
 		- [x] Administrative Tools Windows Button
 
-## Version
-- 2.0 : **Fix folder lock and unlock, fix button adminitrative tools** April 22, 2018
-- 2.0 : New interface March 16, 2018
-- 1.0 : First WeDefend
-
-## Process
-- [ ] Project Complete
-- [x] Project Pending till Android Version Finish
-
-## Video
-
-[![Video Demo](https://github.com/wishihab/WeDefend/blob/master/wedefend-youtube.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
-
 
 ## Next Goal
 - [ ] Good UserInterface
 - [ ] More RAT detected
 
-## Licence Information
-WiDefend is licenced under [MIT Licence](https://github.com/wishihab/WeDefend/blob/master/LICENSE)
+## Process
+- [ ] Project Complete
+- [x] Project Pending till Android Version Finish
+
 
 #ForEducationPurposeOnly or ResearchITSecurityandMalware
 
