@@ -10,7 +10,7 @@ WeDefend is application based on java programming language with several features
 - [x] [Previous read me here](https://github.com/wishihab/WeDefend/tree/master/v1.0/widefend)
 - [x] [Readme Bahasa Indonesia](https://github.com/wishihab/WeDefend/blob/master/README_INDONESIA.md)
 - [x] WeDefend is licenced under [MIT Licence](https://github.com/wishihab/WeDefend/blob/master/LICENSE)
-- This app is open-source feel free to fork, improve, and use. You can submit pull requests!
+- [x] This app is open-source. Feel free to fork, improve, and use. You can submit pull requests!
 
 ## Video
 [![Video Demo](https://github.com/wishihab/WeDefend/blob/master/YoutubeVideo.PNG)](https://www.youtube.com/embed/QCPqa-WPHec) 
