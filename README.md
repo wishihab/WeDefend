@@ -34,7 +34,7 @@ WeDefend is application based on java programming language with several features
 		- [x] Geolocation using [IP-API](http://ip-api.com)
 		
 	- [x] SCAN
-		- [x] Scan file offline
+		- [x] Scan file offline (simple scan by fileinputandread)
 			- [x] Unknown RAT v 1.2.0 (unencrypted)
 			- [x] Ratty (unencrypted)
 			- [x] njRAT (unencrypted)
